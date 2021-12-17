@@ -1,0 +1,25 @@
+{
+    "author": "Matteo Gratton",
+    "icon": "icon.png",
+    "commands": [{
+            "script": "hide-all.js",
+            "name": "Hide all non Artboard items",
+            "identifier": "Hide-All"
+        },
+        {
+            "script": "show-all.js",
+            "name": "Show all non Artboard items",
+            "identifier": "Show-All"
+        }
+    ],
+    "menu": {
+        "title": "Sketch - Canvas items manager",
+        "items": ["Hide-All", "Show-All"]
+    },
+    "identifier": "com.example.sketch.a171d287-68e1-47b8-bdcf-ad41884731db",
+    "version": "1.0",
+    "description": "Hide or Show all the items that are not part of an Artboard or a Main Symbol",
+    "authorEmail": "icona79@gmail.com",
+    "name": "Sketch - Canvas items manager",
+    "disableCocoaScriptPreprocessor": true
+}
