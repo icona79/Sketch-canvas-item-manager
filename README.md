@@ -7,4 +7,4 @@ This way, you can hide all the element that are not supposed to be visible in yo
 
 ## Installation
 
--   [Download the latest release](https://github.com/icona79/Sketch-canvas-item-manager/releases/download/Latest/To.install.download.this.file.unzip.and.double.click.on.the.sketchplugin.zip), unzip and double click on the .sketchplugin file.
+-   [Download the latest release](https://github.com/icona79/Sketch-canvas-item-manager/releases/download/Latest/Sketch-canvas-item-manager.sketchplugin.zip), unzip and double click on the .sketchplugin file.
